@@ -1,0 +1,6 @@
+echo "# 916846-progetto-web" >> README.md
+git init
+git add README.md
+git commit -m "first commit"
+git remote add origin https://github.com/zsq1225/916846-progetto-web.git
+git push -u origin master
